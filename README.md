@@ -10,12 +10,12 @@
                                                                                                           
 ========= Short Words to remember ========                                                             
                                                                                                      
-cont = container                                                                                  
-fx = fixed
-btm = bottom
-br = border
-txt = text (in color of text)
-lt = light
-sm = small
-md = medium
-lg = large
+cont = container,                                                                 
+fx = fixed,
+btm = bottom,
+br = border,
+txt = text (in color of text),
+lt = light,
+sm = small,
+md = medium,
+lg = large,
